@@ -1,0 +1,13 @@
+
+.vs/
+**/bin/
+**/obj/
+
+# Base de datos SQLite
+**/banking.db
+**/banking.db-shm
+**/banking.db-wal
+
+# Archivos personales
+*.user
+*.suo

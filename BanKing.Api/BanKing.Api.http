@@ -1,0 +1,6 @@
+@BanKing.Api_HostAddress = http://localhost:5078
+
+GET {{BanKing.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
